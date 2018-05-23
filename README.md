@@ -4,7 +4,7 @@
 
 A 5-card poker game for [Arduboy](https://arduboy.com/) ported from [the Gamebuino version](https://github.com/delpozzo/videopoker-gamebuino).
 
-<img src="src/videopoker.gif?raw=true" alt="Screenshot" width="200" height="200"/>
+<img src="src/videopoker.gif?raw=true" alt="Screenshot" width="300" height="300"/>
 
 ## Installation
 
