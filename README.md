@@ -4,7 +4,7 @@
 
 A 5-card poker game for [Arduboy](https://arduboy.com/) ported from [the Gamebuino version](https://github.com/delpozzo/videopoker-gamebuino).
 
-![Screenshot](src/videopoker.gif?raw=true)
+![Screenshot](src/videopoker.gif?raw=true | width=100)
 
 ## Installation
 
@@ -19,6 +19,8 @@ See the [Arduboy Quick Start Guide](https://community.arduboy.com/t/quick-start-
 - **A Button** - Hold / Unhold card.
 - **B Button** - Deal / Draw.
 - **Left + Right** - Pause menu (press Left and Right at the same time).
+
+To upload a new game, hold Up while powering on your Arduboy to enter flashlight mode.
 
 ### Gameplay
 
